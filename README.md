@@ -1,6 +1,10 @@
 # Koreksi Kata
 
 Proyek ini merupakan implementasi program dari makalah ALGEO dengan judul "Penerapan Vektor di Ruang Euclidean dan Cosine Similarity untuk Koreksi Kata dalam Bahasa Indonesia."
+<br>
+🔗 : https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2024-2025/Makalah/Makalah-IF2123-Algeo-2024%20(130).pdf
+
+
 
 ## Persyaratan
 Pastikan Anda telah menginstal Python di sistem Anda.
